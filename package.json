@@ -1,0 +1,20 @@
+{
+  "name": "scheduling-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"This is a test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yukimecox/scheduling-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yukimecox/scheduling-website/issues"
+  },
+  "homepage": "https://github.com/yukimecox/scheduling-website#readme",
+  "description": ""
+}
